@@ -1,0 +1,18 @@
+# Hi, I'm Aadit 👋
+
+Full Stack Developer from Kochi, India
+React | Node.js | Express | PostgreSQL
+
+## 🛠 Tech Stack
+- Frontend: React, JavaScript, HTML, CSS, React Router
+- Backend: Node.js, Express, REST APIs, JWT Auth
+- Database: PostgreSQL, SQL
+- Tools: Git, GitHub, Postman, VS Code
+
+## 📌 Featured Projects
+- [Expense Tracker](your-repo-link) — Full stack app with React, Node.js, JWT auth and PostgreSQL
+- [V-Guard Load Calculator](link-if-available) — Production tool built at Codelynks
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/aadit-v-biju-579a2a230/
+- Email: aaditk777@gmail.com
