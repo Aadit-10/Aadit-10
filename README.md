@@ -10,9 +10,9 @@ React | Node.js | Express | PostgreSQL
 - Tools: Git, GitHub, Postman, VS Code
 
 ## 📌 Featured Projects
-- V-Guard Load Calculator — Production tool built at Codelynks
-- [Expense Tracker](https://github.com/Aadit-10/my-expense-calculator) — Full stack app with React, Node.js and MongoDb
-- [Food Ordering Platform Backend](https://github.com/Aadit-10/Food-Ordering) — Only Backend API's done with Node.js, Express , JWT auth and MongoDb
+- V-Guard Load Calculator - Production tool built at Codelynks
+- [Expense Tracker](https://github.com/Aadit-10/my-expense-calculator) - Full stack app with React, Node.js and MongoDb
+- [Food Ordering Platform Backend](https://github.com/Aadit-10/Food-Ordering) - Only Backend API's done with Node.js, Express , JWT auth and MongoDb
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/aadit-v-biju-579a2a230/
