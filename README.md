@@ -10,7 +10,7 @@ React | Node.js | Express | PostgreSQL
 - Tools: Git, GitHub, Postman, VS Code
 
 ## 📌 Featured Projects
-- [Expense Tracker]([your-repo-link](https://github.com/Aadit-10/my-expense-calculator)) — Full stack app with React, Node.js, JWT auth and PostgreSQL
+- [Expense Tracker](https://github.com/Aadit-10/my-expense-calculator) — Full stack app with React, Node.js, JWT auth and PostgreSQL
 - V-Guard Load Calculator — Production tool built at Codelynks
 
 ## 📫 Contact
